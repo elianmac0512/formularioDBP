@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgb(215, 240, 215);  
+}
+.box{
+    width: 200px;
+    height: 250px;
+    float: left;
+    margin: 20px;
+}
+.dashed{
+    border: 3px dashed black;
+    padding: 5px;
+}
